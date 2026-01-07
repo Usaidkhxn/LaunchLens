@@ -1,0 +1,12 @@
+pandas
+numpy
+scipy
+statsmodels
+duckdb
+pyarrow
+scikit-learn
+streamlit
+pytest
+python-dotenv
+tabulate
+pyyaml
