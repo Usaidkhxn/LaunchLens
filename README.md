@@ -1,4 +1,4 @@
-# LaunchLens 🚀
+# LaunchLens 
 **Decision-ready experiment monitoring for product launches** - from raw event telemetry to A/B readouts, guardrails, SRM checks, daily trends, and an auto-generated experiment report.
 
 This project is built to mirror **real Product Data Scientist workflows**: metrics definition, experimentation, monitoring, and decision-making under uncertainty.
@@ -29,4 +29,5 @@ This project is built to mirror **real Product Data Scientist workflows**: metri
 ```
 
 See metric definitions in **METRICS.md**.
+
 
